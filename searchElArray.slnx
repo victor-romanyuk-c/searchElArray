@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="searchElArray.vcxproj" Id="4fb25797-9780-4296-9f23-36e3e5ed9cd6" />
+</Solution>
