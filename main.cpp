@@ -1,5 +1,4 @@
 #include<iostream>
-using namespace std;
 
 int searchArrEl(int*, int, int);
 
@@ -28,7 +27,7 @@ int main()
 		std::cout << "Number " << myNum << " is not in the array.\n";
 	}
 
-	return 0;
+	return EXIT_SUCCESS;
 }
 
 int searchArrEl(int* Array, int size, int element)
